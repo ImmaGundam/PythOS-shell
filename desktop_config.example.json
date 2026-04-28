@@ -1,0 +1,15 @@
+{
+  "width": 1280,
+  "height": 800,
+  "taskbar_position": "bottom",
+  "wallpaper_pattern": "gradient",
+  "background_image_path": null,
+  "username": "user",
+  "imported_apps": [],
+  "app_preferences": {},
+  "desktop_icon_positions": {},
+  "security": {
+    "password_hash": null,
+    "password_salt": null
+  }
+}
