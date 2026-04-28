@@ -343,14 +343,17 @@ are Python modules and should be treated as trusted code.
 
 ---
 
-## Preview
+## Screenshots
 
-<img width="700" src="https://github.com/user-attachments/assets/f49fcff0-1b93-4958-8860-e53de56a7d51" />
-
-
+<details>
+<summary><strong>Click to Preview</strong></summary>
+<img width="700" src="https://github.com/user-attachments/assets/f49fcff0-1b93-4958-8860-e53de56a7d51" /><br>
+<img width="700" src="https://github.com/user-attachments/assets/5039da8e-919b-4140-8c8a-4f2683d16eef" /><br>
+<img width="700" src="https://github.com/user-attachments/assets/ee5d741c-cb11-40fb-986e-db2296ee9cdc" /><br>
+<img width="700" src="https://github.com/user-attachments/assets/bfb85ec3-98d8-4a8f-9963-c59959d8c7b7" /><br>
+</details>
 
 ---
-
 
 ## Project Lifecycle and Future Direction
 
