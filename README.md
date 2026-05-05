@@ -18,12 +18,12 @@ runtime-oriented software structure.
 
 ---
 
-## Engineering Project Goal
+## Project Goal
 
 PythOS Shell was built to show how a traditional desktop interface can be
 modeled as a Python-based shell/runtime environment.
 
-The engineering focus is:
+The project focus is:
 
 - custom shell loop
 - window management and desktop-style interaction
